@@ -12,8 +12,8 @@ Self-play agents learning **sword & shield duels**.
 - Compared **512×2 vs 512×3** networks.  
 
 <p align="center">
-  <img src="Gladiators/gifs%20and%20graphs/No%20shield%20after%20training.gif" width="45%">
-  <img src="Gladiators/gifs%20and%20graphs/With%20shield%20after%20training.gif" width="45%">
+  <img src="ML Agents - PPO - Reinforcement Learning/Gladiators/gifs%20and%20graphs/No%20shield%20after%20training.gif" width="45%">
+  <img src="ML Agents - PPO - Reinforcement Learning/Gladiators/gifs%20and%20graphs/With%20shield%20after%20training.gif" width="45%">
 </p>
 
 👉 [See full Gladiators README](Gladiators/README.md)
@@ -26,8 +26,8 @@ Multi agent **package sorting** robots.
 - Must navigate walls and avoid collisions.  
 
 <p align="center">
-  <img src="Warehouse/gifs%20and%20screenshots/Before%20training.gif" width="45%">
-  <img src="Warehouse/gifs%20and%20screenshots/After%20training.gif" width="45%">
+  <img src="ML Agents - PPO - Reinforcement Learning/Warehouse/gifs%20and%20screenshots/Before%20training.gif" width="45%">
+  <img src="ML Agents - PPO - Reinforcement Learning/Warehouse/gifs%20and%20screenshots/After%20training.gif" width="45%">
 </p>
 
 👉 [See full Warehouse README](Warehouse/README.md)
